@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env*
+!.env.example
+.vercel/
+*.sqlite3
+*.xlsx
+*.csv
+*.png
+private-data/
